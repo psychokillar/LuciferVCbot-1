@@ -7,7 +7,7 @@
 
 # DEPLOY ON HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LuciferVCbot-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/psychokillar/LuciferVCbot-1)
 
 # VARS
 
